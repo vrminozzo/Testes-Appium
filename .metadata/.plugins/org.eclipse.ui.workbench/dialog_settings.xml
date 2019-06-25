@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="581" key="DIALOG_X_ORIGIN"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="952" key="dialogHeight"/>
+		<item value="1450" key="dialogWidth"/>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.egit.ui.GitPreferences"/>
+			<item value="org.eclipse.jdt.junit.ResultView"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textArray">
+			<item value="index"/>
+			<item value="junit"/>
+		</list>
+	</section>
+</section>
